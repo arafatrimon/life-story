@@ -1,8 +1,9 @@
-I born in 1990 march 12
+I born in 1990 march 30000000000000000
 I havae done my SSC in 2016
 I am comeplete athe tin 2008
 I have passed my Hons in 2016
 I have complete my MSc in 2021
 I have stated my full stack web developer in 2021
 I will join MFile in December at the united kindom
-new line is added in main barnch
+new line is added in feature barnch
+
